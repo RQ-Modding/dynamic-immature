@@ -62,6 +62,11 @@ release zip into the game's `mods` folder, so that you have `mods/dynamic-immatu
 Immature on a character whose penalty is gone, `rq.loot.on_pick` puts them in Malgrid chests and
 `rq.shop.on_stock` on Frostbuy's rack.
 
+## Credits
+
+The Randoseru's icon, `icons/randoseru.png`, was drawn by Moru for this mod. It is under the mod's
+MIT license, like the code.
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
