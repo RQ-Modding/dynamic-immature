@@ -53,9 +53,9 @@ sets the chance per chest for each item (100 makes every qualifying chest give a
 puts the mod's own back; it still needs a Malgrid stratum of 5 or deeper), and `ungrow(iic)`,
 which undoes the Adult Card on a story child (the penalty comes back).
 
-## Test Lab
+## Tested in the game
 
-`dynamic-immature` (with this mod installed): both items on a story child, an adult and a full
+The Test Lab's scenario `dynamic-immature` (with this mod installed): both items on a story child, an adult and a full
 list; the refusal texts in the vault and on the status page; the stats; a scene's check still
 finding Immature; the vanish on removal; a save and a load; a Malgrid chest; Frostbuy in world 3;
 Rance refused.
