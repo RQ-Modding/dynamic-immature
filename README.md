@@ -2,6 +2,16 @@
 
 Two Special items that give a character the white skill Immature, or take its penalty away.
 
+## Showcase
+
+### Randoseru
+
+<img width="360" height="116" alt="image" src="https://github.com/user-attachments/assets/c9bb3803-4fe5-49f4-8b71-551cb6f39e66" />
+
+### Rance will not wear it
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/720aa5c4-70c5-4f6f-966c-191aeb99de16" />
+
 ## What it changes
 
 Immature (HP, Attack and Magic -20%) is in some characters' starting skills, and the game has no
